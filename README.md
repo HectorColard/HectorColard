@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Actually working for an IT consulting company, I'm currently learning with O'clock.io to improve my knowledges in Web Developpement.
+Actually working for an IT consulting company, I'm currently learning with [O'clock.io](https://oclock.io/) to improve my knowledges in Web Developpement.
 
 
 
