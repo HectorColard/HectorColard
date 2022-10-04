@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Actually working for an IT consulting company, I'm currently learning with [O'clock.io](https://oclock.io/) to improve my knowledges in **Web Developpement**.
+Actually working for an [Ouidou Consulting], and part time studying with [O'clock.io](https://oclock.io/) to improve my knowledges in **Web Developpement**.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-colard-540809211/)
 [![portfolio](https://img.shields.io/badge/-portfolio-lightgrey)](https://github.com/HectorColard/HectorColard.github.io)
@@ -25,6 +25,7 @@ Actually working for an IT consulting company, I'm currently learning with [O'cl
 I really enjoiy what i do for living, and this new life i choosed after 10 years as a waiter.
 
 Last project: Watch'Art 
+
 Stack: React, Redux, Symfony, JS, PHP, HTML5, CSS3, Sass, Docker
 
 I'm currently learning Typescript with React and Java at my work.
