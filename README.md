@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Actually working for an [Ouidou Consulting], and part time studying with [O'clock.io](https://oclock.io/) to improve my knowledges in **Web Developpement**.
+Actually working for an [Ouidou Consulting](https://ouidou.fr/), and part time studying with [O'clock.io](https://oclock.io/) to improve my knowledges in **Web Developpement**.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-colard-540809211/)
 [![portfolio](https://img.shields.io/badge/-portfolio-lightgrey)](https://github.com/HectorColard/HectorColard.github.io)
